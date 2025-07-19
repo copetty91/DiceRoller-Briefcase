@@ -11,13 +11,14 @@ DiceRoller for Android and Windows
 .. _`The BeeWare Project`: https://beeware.org/
 .. _`becoming a financial member of BeeWare`: https://beeware.org/contributing/membership
 
+This is a simple dice roller app for Android and Windows.
 
-To run this please install Python 3.9 to 3.12
+Step 1. Create folder to clone repo into
+Step 2. Clone repo into folder
+Step 3. Create virtual environment in folder using 3.9 to 3.12
+Step 4. pip install briefcase and toga
+Step 5. cd into Diceroller folder
+Step 6. Run briefcase dev
+Step 7. App should launch in a window
 
-Create Virtual Environment in your folder and then run pip install briefcase and pip install toga
-
-Ensure Diceroller/src/diceroller/app.py exists and has the dice roller code in it.
-
-Then run briefcase dev from the /Diceroller directory in terminal.
-
-This will launch the app in a window.
+You can create an installer for Windows by following the instructions at https://briefcase.readthedocs.io/en/stable/tutorial/index.html#tutorial
