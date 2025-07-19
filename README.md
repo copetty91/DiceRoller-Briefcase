@@ -21,7 +21,7 @@ Step 3. Create virtual environment in folder using 3.9 to 3.12
 
 Step 4. pip install briefcase and toga
 
-Step 5. cd into Diceroller folder
+Step 5. cd into Diceroller folder pulled from git
 
 Step 6. Run briefcase dev
 
