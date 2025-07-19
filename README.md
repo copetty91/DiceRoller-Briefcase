@@ -14,11 +14,17 @@ DiceRoller for Android and Windows
 This is a simple dice roller app for Android and Windows.
 
 Step 1. Create folder to clone repo into
+
 Step 2. Clone repo into folder
+
 Step 3. Create virtual environment in folder using 3.9 to 3.12
+
 Step 4. pip install briefcase and toga
+
 Step 5. cd into Diceroller folder
+
 Step 6. Run briefcase dev
+
 Step 7. App should launch in a window
 
 You can create an installer for Windows by following the instructions at https://briefcase.readthedocs.io/en/stable/tutorial/index.html#tutorial
