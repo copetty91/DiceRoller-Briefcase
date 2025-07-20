@@ -17,7 +17,7 @@ Step 1. Create folder to clone repo into
 
 Step 2. Clone repo into folder
 
-Step 3. Create virtual environment in folder using 3.9 to 3.12
+Step 3. Create virtual environment in folder using Python 3.9 to 3.12
 
 Step 4. pip install briefcase and toga
 
