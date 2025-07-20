@@ -9,7 +9,7 @@ author = "copetty91"
 author_email = "copetty91@gmail.com"
 
 [tool.briefcase.app.DiceRoller]
-formal_name = "DiceRoller For Android and Windows"
+formal_name = "DiceRoller"
 description = "DiceRoller for Android and Windows"
 long_description = """More details about the app should go here.
 """
