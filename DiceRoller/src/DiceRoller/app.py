@@ -275,7 +275,7 @@ class DiceRollerApp(toga.App):
                     num_dice_str, sides_str = dice_match.groups()
                     num_dice = int(num_dice_str) if num_dice_str else 1
                     sides = int(sides_str)
-                    if not (0 < num_dice <= 100 and 0 < sides <= 1000):
+                    if not (0 < num_dice <= 1000000000000 and 0 < sides <= 1000000000000):
                         raise ValueError("Dice count/sides out of range")
                     rolls = [random.randint(1, sides) for _ in range(num_dice)]
                     term_sum = sum(rolls)
